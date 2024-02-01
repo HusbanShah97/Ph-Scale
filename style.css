@@ -1,0 +1,105 @@
+.head{
+      text-align: center;
+      background-color: white;    
+}
+#body{
+      background-color: silver;
+}
+.sky-1{
+      background-color:#0482b4;
+      margin: 0%;
+      padding: 6px;
+      color: white;
+}
+.sky-2{
+      background-color:#38b5e7d2;
+      margin: 0%;
+      padding: 6px;
+      color: white;
+}
+.sky-3{
+      background-color:#70c4f8eb;
+      margin: 0%;
+      padding: 6px;
+      color: white;
+}
+.sky-4{
+      background-color:#92d1f9eb;
+      margin: 0%;
+      padding: 6px;
+      color: white;
+}
+.sky-5{
+      background-color:#a4daef;
+      margin: 0%;
+      padding: 6px;
+      color: white;
+}
+.sky-6{
+      background-color:#bddef2eb;
+      margin: 0%;
+      padding: 6px;
+      color: white;
+}
+.sky-7{
+      background-color:#cbe6ef;
+      margin: 0%;
+      padding: 6px;
+      color: white;
+}
+
+.green{
+      background-color: darkgreen;
+      margin: 0%;
+      padding: 6px;
+      color: white;
+}
+
+  .pink-7{ 
+      background-color: #e3082c;
+      margin:0% ;
+      padding:6px ;
+      color:white ;
+}
+
+.pink-6{ 
+      background-color: #e92848;
+      margin:0% ;
+      padding:6px ;
+      color:white ;
+}
+
+.pink-5{ 
+      background-color: #f22d4e;
+      margin:0% ;
+      padding:6px ;
+      color:white ;
+}
+
+.pink-4{ 
+      background-color: #e63f5b;
+      margin:0% ;
+      padding:6px ;
+      color:white ;
+}
+
+.pink-3{ 
+      background-color: #e04b64;
+      margin:0% ;
+      padding:6px ;
+      color:white ;
+}
+
+.pink-2{ 
+      background-color: #e26076;
+      margin:0% ;
+      padding:6px ;
+      color:white ;
+}
+
+.pink-1{ 
+      background-color: #e18191;
+      margin:0% ;
+      padding:6px ;
+      color:white ;
+}
